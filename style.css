@@ -1,0 +1,43 @@
+.navar{
+  background-color: black;
+  border-radius: 34px;
+}
+.basic{
+text-align: center;
+
+
+color: #8080ff
+
+}
+.basic:hover{
+  color: #00FFFF;
+}
+.navar ul{
+  overflow: auto;
+}
+.navar li{
+  float: left;
+  list-style: none;
+  padding: 8px 18px;
+  margin: 25px 23px;
+}
+.navar li a{
+  padding: 3px 3px;
+  text-decoration: none;
+   color: white;
+}
+.navar li a:hover{
+color: red;
+}
+.search{
+float: right;
+background-color: white;
+margin: 20px;
+padding: 12px 21px;
+border-radius: 25px;
+}
+.navar input{
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 3px 10px;
+}
